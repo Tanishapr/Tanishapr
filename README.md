@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tanishapr/Tanishapr/main/banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Tanishapr/Tanishapr/main/banner.png" alt="Profile Banner" width="85%" />
 </p>
 
 <!-- Introduction -->
